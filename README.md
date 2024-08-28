@@ -1,2 +1,2 @@
 # Create-Your-Own-Adventure
- Simple create your own adventure using mostly print statements.
+ Simple choose your own adventure game using mostly print statements.
